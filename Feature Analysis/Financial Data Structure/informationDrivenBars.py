@@ -10,7 +10,7 @@ import pandas as pd
 from scipy.stats import jarque_bera
 
 from alpha_vantage.timeseries import TimeSeries
-Alpha_vantage_key= 'HGO0MXY3UCEY8K8G'
+Alpha_vantage_key= 'YourKey'
 
 ts = TimeSeries(key=Alpha_vantage_key,
                 output_format='pandas')
