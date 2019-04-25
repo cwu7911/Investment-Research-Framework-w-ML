@@ -3,6 +3,7 @@
 Created on Wed Apr 24 15:53:05 2019
 
 @author: cwu7911
+data from AlphaVantage
 """
 
 import numpy as np
